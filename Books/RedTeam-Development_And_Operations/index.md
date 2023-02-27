@@ -87,7 +87,7 @@
 	+ Measure security operations as a whole
 	+ more depth 
 
-Check NIST guidlines for cyber security frameworks homeworks
+ChecNIST guidlines for cyber security frameworks homeworks
 
 
 
