@@ -91,3 +91,25 @@ ChecNIST guidlines for cyber security frameworks homeworks
 
 
 
+# Engagement Planning
+1. Cost and Funding (List all elements affects costs)
+2. Scope
+	1. most significant factor in red team
+	2. May be complex or simple / advantage/disadvantage for redteams
+3. Duration
+	1. Must be set after the scope, objectives and requirements
+	2. Use scope to set timeframe not reverse
+	3. start of 2-4 weeks is good to start and can be start of largers engagements (later scopes and timeframes)
+4. Personnel Labor Cost
+	1. Simultaneously to duration and scope set number of poeple assigned and needed
+	2. most basic team size is 2 individuals. the recommended is 4 individuals: 3 operators and 1 leader
+	3. it is good to always have 2 dedicated operators. operators can be extended and reduced according to timeframe
+5. Equipment and Software Cost
+	1. cost of softwares and equipments
+	2. Softwares may be paid or free
+	3. better to have internal system inside target to reduce the cost but if the org needs an outsider redteamer to see how they gain access the cost shall be extended
+6. Travel Cost: No explanation needed/ local transport or between cities and countries
+7. Pre/Post Engagement Costs
+	1. Some pre/post engegements most be considered for setting timeframe and cost and redteamers fail to consider these in setting timeframe and cost
+	2. actions before engegement (pre-engegement) like: planning, deploying equipment and softwares, developing custom tools, OSINT, ...
+	3. actions after engegemetn (post-engegement) like : reporting
